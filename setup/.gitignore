@@ -1,0 +1,12 @@
+# Ignorar tudo
+*
+
+# Exceto os arquivos e pastas abaixo
+!app/
+!app/views.py
+!app/templates/
+!app/templates/**
+!setup/
+!setup/urls.py
+!.gitignore
+!requirements.txt
